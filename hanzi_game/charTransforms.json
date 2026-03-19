@@ -66,7 +66,7 @@
     { "target": "生", "strokeType": "horizontal", "hint": "在底部加一横", "position": { "x": 0, "y": 50, "radiusX": 35, "radiusY": 35 }, "difficulty": 2 }
   ],
   "万": [
-    { "target": "方", "strokeType": "dot", "hint": "在右上加点", "position": { "x": 30, "y": -40, "radiusX": 35, "radiusY": 35 }, "difficulty": 3 }
+    { target: "方", strokeType: STROKE_TYPES.DOT, hint: "在右上加点", position: { x: -7, y: -60, radiusX: 38, radiusY: 25 }, difficulty: 3 },
   ],
   "月": [
     { "target": "用", "strokeType": "vertical", "hint": "在中间加一竖", "position": { "x": 0, "y": 0, "radiusX": 30, "radiusY": 30 }, "difficulty": 3 }
