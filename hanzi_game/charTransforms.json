@@ -1,114 +1,797 @@
 {
   "一": [
-    { "target": "二", "strokeType": "horizontal", "hint": "在上/下方加一横", "position": { "x": 5, "y": -13, "radiusX": 59, "radiusY": 49 }, "difficulty": 1 },
-    { "target": "十", "strokeType": "vertical", "hint": "在中间加一竖", "position": { "x": -4, "y": -16, "radiusX": 35, "radiusY": 56 }, "difficulty": 1 },
-    { "target": "七", "strokeType": "vertical_hook", "hint": "画竖弯钩", "position": { "x": 1, "y": -17, "radiusX": 50, "radiusY": 50 }, "difficulty": 4 },
-    { "target": "乙", "strokeType": "fold_hook", "hint": "画横折钩", "position": { "x": 45, "y": 11, "radiusX": 50, "radiusY": 50 }, "difficulty": 4 }
+    {
+      "target": "二",
+      "strokeType": "horizontal",
+      "hint": "在上/下方加一横",
+      "position": {
+        "x": 5,
+        "y": -13,
+        "radiusX": 59,
+        "radiusY": 49,
+        "rotation": 0
+      },
+      "difficulty": 1
+    },
+    {
+      "target": "十",
+      "strokeType": "vertical",
+      "hint": "在中间加一竖",
+      "position": {
+        "x": -4,
+        "y": -16,
+        "radiusX": 35,
+        "radiusY": 56,
+        "rotation": 0
+      },
+      "difficulty": 1
+    },
+    {
+      "target": "七",
+      "strokeType": "fold_hook",
+      "hint": "画竖折钩",
+      "position": {
+        "x": 1,
+        "y": -17,
+        "radiusX": 50,
+        "radiusY": 50,
+        "rotation": 0
+      },
+      "difficulty": 4
+    },
+    {
+      "target": "乙",
+      "strokeType": "fold_hook",
+      "hint": "画横折钩",
+      "position": {
+        "x": 45,
+        "y": 11,
+        "radiusX": 50,
+        "radiusY": 50,
+        "rotation": 0
+      },
+      "difficulty": 4
+    }
   ],
   "二": [
-    { "target": "三", "strokeType": "horizontal", "hint": "在底部加一横", "position": { "x": 0, "y": 60, "radiusX": 35, "radiusY": 35 }, "difficulty": 1 },
-    { "target": "干", "strokeType": "vertical", "hint": "在中间加一竖", "position": { "x": 0, "y": 25, "radiusX": 30, "radiusY": 30 }, "difficulty": 2 },
-    { "target": "土", "strokeType": "vertical", "hint": "在中间加一竖", "position": { "x": 0, "y": 25, "radiusX": 30, "radiusY": 30 }, "difficulty": 2 },
-    { "target": "于", "strokeType": "vertical_hook", "hint": "在中间加一竖钩", "position": { "x": 10, "y": 25, "radiusX": 40, "radiusY": 40 }, "difficulty": 3 }
+    {
+      "target": "三",
+      "strokeType": "horizontal",
+      "hint": "在底部加一横",
+      "position": {
+        "x": -1,
+        "y": -8,
+        "radiusX": 56,
+        "radiusY": 67,
+        "rotation": 0
+      },
+      "difficulty": 1
+    },
+    {
+      "target": "干",
+      "strokeType": "vertical",
+      "hint": "在中间加一竖",
+      "position": {
+        "x": 0,
+        "y": 14,
+        "radiusX": 40,
+        "radiusY": 54,
+        "rotation": 0
+      },
+      "difficulty": 2
+    },
+    {
+      "target": "土",
+      "strokeType": "vertical",
+      "hint": "在中间加一竖",
+      "position": {
+        "x": 5,
+        "y": -25,
+        "radiusX": 30,
+        "radiusY": 46,
+        "rotation": 0
+      },
+      "difficulty": 2
+    },
+    {
+      "target": "于",
+      "strokeType": "vertical_hook",
+      "hint": "在中间加一竖钩",
+      "position": {
+        "x": -1,
+        "y": 21,
+        "radiusX": 40,
+        "radiusY": 52,
+        "rotation": 0
+      },
+      "difficulty": 3
+    }
   ],
   "十": [
-    { "target": "土", "strokeType": "horizontal", "hint": "在底部加一横", "position": { "x": 0, "y": 55, "radiusX": 35, "radiusY": 35 }, "difficulty": 1 },
-    { "target": "干", "strokeType": "horizontal", "hint": "在中间加一横", "position": { "x": 0, "y": 0, "radiusX": 30, "radiusY": 30 }, "difficulty": 1 },
-    { "target": "士", "strokeType": "horizontal", "hint": "在底部加一短横", "position": { "x": 0, "y": 55, "radiusX": 35, "radiusY": 35 }, "difficulty": 2 },
-    { "target": "千", "strokeType": "slash", "hint": "在顶部加一撇", "position": { "x": -10, "y": -50, "radiusX": 35, "radiusY": 35 }, "difficulty": 4 },
-    { "target": "丁", "strokeType": "vertical_hook", "hint": "在右侧加竖钩", "position": { "x": 30, "y": 30, "radiusX": 40, "radiusY": 40 }, "difficulty": 4 }
+    {
+      "target": "土",
+      "strokeType": "horizontal",
+      "hint": "在底部加一横",
+      "position": {
+        "x": 1,
+        "y": 40,
+        "radiusX": 65,
+        "radiusY": 31,
+        "rotation": 0
+      },
+      "difficulty": 1
+    },
+    {
+      "target": "干",
+      "strokeType": "horizontal",
+      "hint": "在中间加一横",
+      "position": {
+        "x": 0,
+        "y": -56,
+        "radiusX": 51,
+        "radiusY": 23,
+        "rotation": 0
+      },
+      "difficulty": 1
+    },
+    {
+      "target": "士",
+      "strokeType": "horizontal",
+      "hint": "在底部加一短横",
+      "position": {
+        "x": 0,
+        "y": 55,
+        "radiusX": 35,
+        "radiusY": 35,
+        "rotation": 0
+      },
+      "difficulty": 2
+    },
+    {
+      "target": "千",
+      "strokeType": "slash",
+      "hint": "在顶部加一撇",
+      "position": {
+        "x": -7,
+        "y": -60,
+        "radiusX": 35,
+        "radiusY": 45,
+        "rotation": 231
+      },
+      "difficulty": 4
+    }
   ],
   "人": [
-    { "target": "大", "strokeType": "horizontal", "hint": "在中间加一横", "position": { "x": 0, "y": 10, "radiusX": 35, "radiusY": 35 }, "difficulty": 1 },
-    { "target": "个", "strokeType": "vertical", "hint": "在顶部加一竖", "position": { "x": 0, "y": -30, "radiusX": 30, "radiusY": 30 }, "difficulty": 2 },
-    { "target": "入", "strokeType": "backslash", "hint": "在右侧加一捺", "position": { "x": 15, "y": 30, "radiusX": 35, "radiusY": 35 }, "difficulty": 4 }
+    {
+      "target": "大",
+      "strokeType": "horizontal",
+      "hint": "在中间加一横",
+      "position": {
+        "x": 0,
+        "y": 10,
+        "radiusX": 35,
+        "radiusY": 35,
+        "rotation": 0
+      },
+      "difficulty": 1
+    },
+    {
+      "target": "个",
+      "strokeType": "vertical",
+      "hint": "在顶部加一竖",
+      "position": {
+        "x": 0,
+        "y": -30,
+        "radiusX": 30,
+        "radiusY": 30,
+        "rotation": 0
+      },
+      "difficulty": 2
+    },
+    {
+      "target": "入",
+      "strokeType": "backslash",
+      "hint": "在右侧加一捺",
+      "position": {
+        "x": 15,
+        "y": 30,
+        "radiusX": 35,
+        "radiusY": 35,
+        "rotation": 0
+      },
+      "difficulty": 4
+    }
   ],
   "大": [
-    { "target": "天", "strokeType": "horizontal", "hint": "在顶部加一横", "position": { "x": 0, "y": -55, "radiusX": 35, "radiusY": 35 }, "difficulty": 1 },
-    { "target": "太", "strokeType": "dot", "hint": "在右下加一点", "position": { "x": 25, "y": 55, "radiusX": 35, "radiusY": 35 }, "difficulty": 2 },
-    { "target": "犬", "strokeType": "dot", "hint": "在右下加一点", "position": { "x": 30, "y": 55, "radiusX": 35, "radiusY": 35 }, "difficulty": 3 },
-    { "target": "丈", "strokeType": "slash", "hint": "在右侧加撇", "position": { "x": 40, "y": 20, "radiusX": 35, "radiusY": 35 }, "difficulty": 4 }
+    {
+      "target": "天",
+      "strokeType": "horizontal",
+      "hint": "在顶部加一横",
+      "position": {
+        "x": 0,
+        "y": -55,
+        "radiusX": 35,
+        "radiusY": 35,
+        "rotation": 0
+      },
+      "difficulty": 1
+    },
+    {
+      "target": "太",
+      "strokeType": "dot",
+      "hint": "在右下加一点",
+      "position": {
+        "x": 25,
+        "y": 55,
+        "radiusX": 35,
+        "radiusY": 35,
+        "rotation": 0
+      },
+      "difficulty": 2
+    },
+    {
+      "target": "犬",
+      "strokeType": "dot",
+      "hint": "在右下加一点",
+      "position": {
+        "x": 30,
+        "y": 55,
+        "radiusX": 35,
+        "radiusY": 35,
+        "rotation": 0
+      },
+      "difficulty": 3
+    },
+    {
+      "target": "丈",
+      "strokeType": "slash",
+      "hint": "在右侧加撇",
+      "position": {
+        "x": 40,
+        "y": 20,
+        "radiusX": 35,
+        "radiusY": 35,
+        "rotation": 0
+      },
+      "difficulty": 4
+    }
   ],
   "口": [
-    { "target": "日", "strokeType": "horizontal", "hint": "在中间加一横", "position": { "x": 0, "y": -5, "radiusX": 30, "radiusY": 30 }, "difficulty": 1 },
-    { "target": "中", "strokeType": "vertical", "hint": "在中间加一竖", "position": { "x": 0, "y": -5, "radiusX": 30, "radiusY": 30 }, "difficulty": 2 },
-    { "target": "巳", "strokeType": "vertical_hook", "hint": "在右侧加竖弯钩", "position": { "x": 35, "y": 20, "radiusX": 40, "radiusY": 40 }, "difficulty": 4 },
-    { "target": "尸", "strokeType": "horizontal_fold", "hint": "在右侧加横折", "position": { "x": 25, "y": -20, "radiusX": 45, "radiusY": 45 }, "difficulty": 4 }
+    {
+      "target": "日",
+      "strokeType": "horizontal",
+      "hint": "在中间加一横",
+      "position": {
+        "x": 0,
+        "y": -5,
+        "radiusX": 30,
+        "radiusY": 30,
+        "rotation": 0
+      },
+      "difficulty": 1
+    },
+    {
+      "target": "中",
+      "strokeType": "vertical",
+      "hint": "在中间加一竖",
+      "position": {
+        "x": 0,
+        "y": -5,
+        "radiusX": 30,
+        "radiusY": 30,
+        "rotation": 0
+      },
+      "difficulty": 2
+    },
+    {
+      "target": "巳",
+      "strokeType": "vertical_hook",
+      "hint": "在右侧加竖弯钩",
+      "position": {
+        "x": 35,
+        "y": 20,
+        "radiusX": 40,
+        "radiusY": 40,
+        "rotation": 0
+      },
+      "difficulty": 4
+    },
+    {
+      "target": "尸",
+      "strokeType": "horizontal_fold",
+      "hint": "在右侧加横折",
+      "position": {
+        "x": 25,
+        "y": -20,
+        "radiusX": 45,
+        "radiusY": 45,
+        "rotation": 0
+      },
+      "difficulty": 4
+    }
   ],
   "日": [
-    { "target": "目", "strokeType": "horizontal", "hint": "在中间加一横", "position": { "x": 0, "y": 0, "radiusX": 30, "radiusY": 30 }, "difficulty": 1 },
-    { "target": "田", "strokeType": "vertical", "hint": "在中间加一竖", "position": { "x": 0, "y": 0, "radiusX": 25, "radiusY": 25 }, "difficulty": 2 },
-    { "target": "白", "strokeType": "slash", "hint": "在顶部加一撇", "position": { "x": -15, "y": -55, "radiusX": 35, "radiusY": 35 }, "difficulty": 2 },
-    { "target": "电", "strokeType": "vertical_hook", "hint": "在右下加竖弯钩", "position": { "x": 25, "y": 45, "radiusX": 40, "radiusY": 40 }, "difficulty": 3 },
-    { "target": "申", "strokeType": "vertical", "hint": "在中间加一竖（穿过）", "position": { "x": 0, "y": 0, "radiusX": 25, "radiusY": 25 }, "difficulty": 3 }
+    {
+      "target": "目",
+      "strokeType": "horizontal",
+      "hint": "在中间加一横",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "radiusX": 30,
+        "radiusY": 30,
+        "rotation": 0
+      },
+      "difficulty": 1
+    },
+    {
+      "target": "田",
+      "strokeType": "vertical",
+      "hint": "在中间加一竖",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "radiusX": 25,
+        "radiusY": 25,
+        "rotation": 0
+      },
+      "difficulty": 2
+    },
+    {
+      "target": "白",
+      "strokeType": "slash",
+      "hint": "在顶部加一撇",
+      "position": {
+        "x": -15,
+        "y": -55,
+        "radiusX": 35,
+        "radiusY": 35,
+        "rotation": 0
+      },
+      "difficulty": 2
+    },
+    {
+      "target": "电",
+      "strokeType": "vertical_hook",
+      "hint": "在右下加竖弯钩",
+      "position": {
+        "x": 25,
+        "y": 45,
+        "radiusX": 40,
+        "radiusY": 40,
+        "rotation": 0
+      },
+      "difficulty": 3
+    },
+    {
+      "target": "申",
+      "strokeType": "vertical",
+      "hint": "在中间加一竖（穿过）",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "radiusX": 25,
+        "radiusY": 25,
+        "rotation": 0
+      },
+      "difficulty": 3
+    }
   ],
   "田": [
-    { "target": "申", "strokeType": "vertical", "hint": "在中间加一竖", "position": { "x": 0, "y": 0, "radiusX": 30, "radiusY": 30 }, "difficulty": 1 },
-    { "target": "甲", "strokeType": "vertical", "hint": "在中间加一竖（出头）", "position": { "x": 0, "y": -20, "radiusX": 30, "radiusY": 30 }, "difficulty": 3 },
-    { "target": "由", "strokeType": "vertical", "hint": "在中间加一竖（下出头）", "position": { "x": 0, "y": 20, "radiusX": 30, "radiusY": 30 }, "difficulty": 3 }
+    {
+      "target": "申",
+      "strokeType": "vertical",
+      "hint": "在中间加一竖",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "radiusX": 30,
+        "radiusY": 30,
+        "rotation": 0
+      },
+      "difficulty": 1
+    },
+    {
+      "target": "甲",
+      "strokeType": "vertical",
+      "hint": "在中间加一竖（出头）",
+      "position": {
+        "x": 0,
+        "y": -20,
+        "radiusX": 30,
+        "radiusY": 30,
+        "rotation": 0
+      },
+      "difficulty": 3
+    },
+    {
+      "target": "由",
+      "strokeType": "vertical",
+      "hint": "在中间加一竖（下出头）",
+      "position": {
+        "x": 0,
+        "y": 20,
+        "radiusX": 30,
+        "radiusY": 30,
+        "rotation": 0
+      },
+      "difficulty": 3
+    }
   ],
   "木": [
-    { "target": "禾", "strokeType": "slash", "hint": "在顶部加一撇", "position": { "x": -15, "y": -65, "radiusX": 35, "radiusY": 35 }, "difficulty": 1 },
-    { "target": "本", "strokeType": "horizontal", "hint": "在底部加一横", "position": { "x": 0, "y": 60, "radiusX": 35, "radiusY": 35 }, "difficulty": 2 },
-    { "target": "未", "strokeType": "horizontal", "hint": "在顶部加一横", "position": { "x": 0, "y": -60, "radiusX": 35, "radiusY": 35 }, "difficulty": 2 },
-    { "target": "术", "strokeType": "dot", "hint": "在右上加点", "position": { "x": 35, "y": -55, "radiusX": 35, "radiusY": 35 }, "difficulty": 3 }
+    {
+      "target": "禾",
+      "strokeType": "slash",
+      "hint": "在顶部加一撇",
+      "position": {
+        "x": -15,
+        "y": -65,
+        "radiusX": 35,
+        "radiusY": 35,
+        "rotation": 0
+      },
+      "difficulty": 1
+    },
+    {
+      "target": "本",
+      "strokeType": "horizontal",
+      "hint": "在底部加一横",
+      "position": {
+        "x": 0,
+        "y": 60,
+        "radiusX": 35,
+        "radiusY": 35,
+        "rotation": 0
+      },
+      "difficulty": 2
+    },
+    {
+      "target": "未",
+      "strokeType": "horizontal",
+      "hint": "在顶部加一横",
+      "position": {
+        "x": 0,
+        "y": -60,
+        "radiusX": 35,
+        "radiusY": 35,
+        "rotation": 0
+      },
+      "difficulty": 2
+    },
+    {
+      "target": "术",
+      "strokeType": "dot",
+      "hint": "在右上加点",
+      "position": {
+        "x": 35,
+        "y": -55,
+        "radiusX": 35,
+        "radiusY": 35,
+        "rotation": 0
+      },
+      "difficulty": 3
+    }
   ],
   "白": [
-    { "target": "百", "strokeType": "horizontal", "hint": "在顶部加一横", "position": { "x": 0, "y": -55, "radiusX": 35, "radiusY": 35 }, "difficulty": 1 },
-    { "target": "自", "strokeType": "slash", "hint": "在顶部加一撇", "position": { "x": -10, "y": -60, "radiusX": 35, "radiusY": 35 }, "difficulty": 3 }
+    {
+      "target": "百",
+      "strokeType": "horizontal",
+      "hint": "在顶部加一横",
+      "position": {
+        "x": 0,
+        "y": -55,
+        "radiusX": 35,
+        "radiusY": 35,
+        "rotation": 0
+      },
+      "difficulty": 1
+    },
+    {
+      "target": "自",
+      "strokeType": "slash",
+      "hint": "在顶部加一撇",
+      "position": {
+        "x": -10,
+        "y": -60,
+        "radiusX": 35,
+        "radiusY": 35,
+        "rotation": 0
+      },
+      "difficulty": 3
+    }
   ],
   "王": [
-    { "target": "玉", "strokeType": "dot", "hint": "在右下加一点", "position": { "x": 30, "y": 55, "radiusX": 35, "radiusY": 35 }, "difficulty": 2 },
-    { "target": "主", "strokeType": "dot", "hint": "在顶部加一点", "position": { "x": 0, "y": -65, "radiusX": 35, "radiusY": 35 }, "difficulty": 3 },
-    { "target": "五", "strokeType": "vertical", "hint": "在中间加一竖", "position": { "x": 0, "y": 0, "radiusX": 30, "radiusY": 30 }, "difficulty": 3 }
+    {
+      "target": "玉",
+      "strokeType": "dot",
+      "hint": "在右下加一点",
+      "position": {
+        "x": 30,
+        "y": 55,
+        "radiusX": 35,
+        "radiusY": 35,
+        "rotation": 0
+      },
+      "difficulty": 2
+    },
+    {
+      "target": "主",
+      "strokeType": "dot",
+      "hint": "在顶部加一点",
+      "position": {
+        "x": 0,
+        "y": -65,
+        "radiusX": 35,
+        "radiusY": 35,
+        "rotation": 0
+      },
+      "difficulty": 3
+    },
+    {
+      "target": "五",
+      "strokeType": "vertical",
+      "hint": "在中间加一竖",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "radiusX": 30,
+        "radiusY": 30,
+        "rotation": 0
+      },
+      "difficulty": 3
+    }
   ],
   "牛": [
-    { "target": "生", "strokeType": "horizontal", "hint": "在底部加一横", "position": { "x": 0, "y": 50, "radiusX": 35, "radiusY": 35 }, "difficulty": 2 }
+    {
+      "target": "生",
+      "strokeType": "horizontal",
+      "hint": "在底部加一横",
+      "position": {
+        "x": 0,
+        "y": 50,
+        "radiusX": 35,
+        "radiusY": 35,
+        "rotation": 0
+      },
+      "difficulty": 2
+    }
   ],
   "万": [
-    { "target": "方", "strokeType": "dot", "hint": "在右上加点", "position": { "x": -7, "y": -60, "radiusX": 38, "radiusY": 25 }, "difficulty": 3 }
+    {
+      "target": "方",
+      "strokeType": "dot",
+      "hint": "在右上加点",
+      "position": {
+        "x": 30,
+        "y": -40,
+        "radiusX": 35,
+        "radiusY": 35,
+        "rotation": 0
+      },
+      "difficulty": 3
+    }
   ],
   "月": [
-    { "target": "用", "strokeType": "vertical", "hint": "在中间加一竖", "position": { "x": 0, "y": 0, "radiusX": 30, "radiusY": 30 }, "difficulty": 3 }
+    {
+      "target": "用",
+      "strokeType": "vertical",
+      "hint": "在中间加一竖",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "radiusX": 30,
+        "radiusY": 30,
+        "rotation": 0
+      },
+      "difficulty": 3
+    }
   ],
   "止": [
-    { "target": "正", "strokeType": "horizontal", "hint": "在顶部加一横", "position": { "x": 0, "y": -50, "radiusX": 35, "radiusY": 35 }, "difficulty": 2 }
+    {
+      "target": "正",
+      "strokeType": "horizontal",
+      "hint": "在顶部加一横",
+      "position": {
+        "x": 0,
+        "y": -50,
+        "radiusX": 35,
+        "radiusY": 35,
+        "rotation": 0
+      },
+      "difficulty": 2
+    }
   ],
   "卜": [
-    { "target": "下", "strokeType": "horizontal", "hint": "在顶部加一横", "position": { "x": 0, "y": -40, "radiusX": 35, "radiusY": 35 }, "difficulty": 2 }
+    {
+      "target": "下",
+      "strokeType": "horizontal",
+      "hint": "在顶部加一横",
+      "position": {
+        "x": 0,
+        "y": -40,
+        "radiusX": 35,
+        "radiusY": 35,
+        "rotation": 0
+      },
+      "difficulty": 2
+    }
   ],
   "又": [
-    { "target": "叉", "strokeType": "dot", "hint": "在中间加点", "position": { "x": 0, "y": 0, "radiusX": 35, "radiusY": 35 }, "difficulty": 2 }
+    {
+      "target": "叉",
+      "strokeType": "dot",
+      "hint": "在中间加点",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "radiusX": 35,
+        "radiusY": 35,
+        "rotation": 0
+      },
+      "difficulty": 2
+    }
   ],
   "小": [
-    { "target": "少", "strokeType": "slash", "hint": "在右侧加一撇", "position": { "x": 25, "y": 10, "radiusX": 35, "radiusY": 35 }, "difficulty": 2 }
+    {
+      "target": "少",
+      "strokeType": "slash",
+      "hint": "在右侧加一撇",
+      "position": {
+        "x": 25,
+        "y": 10,
+        "radiusX": 35,
+        "radiusY": 35,
+        "rotation": 0
+      },
+      "difficulty": 2
+    }
   ],
   "几": [
-    { "target": "凡", "strokeType": "dot", "hint": "在中间加点", "position": { "x": 0, "y": 10, "radiusX": 35, "radiusY": 35 }, "difficulty": 2 }
+    {
+      "target": "凡",
+      "strokeType": "dot",
+      "hint": "在中间加点",
+      "position": {
+        "x": 0,
+        "y": 10,
+        "radiusX": 35,
+        "radiusY": 35,
+        "rotation": 0
+      },
+      "difficulty": 2
+    }
   ],
   "九": [
-    { "target": "丸", "strokeType": "dot", "hint": "在右上加点", "position": { "x": 20, "y": -30, "radiusX": 35, "radiusY": 35 }, "difficulty": 3 }
+    {
+      "target": "丸",
+      "strokeType": "dot",
+      "hint": "在右上加点",
+      "position": {
+        "x": 20,
+        "y": -30,
+        "radiusX": 35,
+        "radiusY": 35,
+        "rotation": 0
+      },
+      "difficulty": 3
+    }
   ],
   "力": [
-    { "target": "办", "strokeType": "slash", "hint": "在中间加一撇", "position": { "x": 0, "y": 0, "radiusX": 35, "radiusY": 35 }, "difficulty": 3 }
+    {
+      "target": "办",
+      "strokeType": "slash",
+      "hint": "在中间加一撇",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "radiusX": 35,
+        "radiusY": 35,
+        "rotation": 0
+      },
+      "difficulty": 3
+    }
   ],
   "三": [
-    { "target": "王", "strokeType": "vertical", "hint": "在中间加一竖", "position": { "x": 0, "y": 0, "radiusX": 30, "radiusY": 30 }, "difficulty": 2 }
+    {
+      "target": "王",
+      "strokeType": "vertical",
+      "hint": "在中间加一竖",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "radiusX": 30,
+        "radiusY": 30,
+        "rotation": 0
+      },
+      "difficulty": 2
+    }
   ],
   "土": [
-    { "target": "王", "strokeType": "horizontal", "hint": "在顶部加一横", "position": { "x": 0, "y": -50, "radiusX": 35, "radiusY": 35 }, "difficulty": 2 }
+    {
+      "target": "王",
+      "strokeType": "horizontal",
+      "hint": "在顶部加一横",
+      "position": {
+        "x": 0,
+        "y": -50,
+        "radiusX": 35,
+        "radiusY": 35,
+        "rotation": 0
+      },
+      "difficulty": 2
+    }
   ],
   "干": [
-    { "target": "王", "strokeType": "horizontal", "hint": "在顶部加一横", "position": { "x": 0, "y": -50, "radiusX": 35, "radiusY": 35 }, "difficulty": 2 }
+    {
+      "target": "王",
+      "strokeType": "horizontal",
+      "hint": "在顶部加一横",
+      "position": {
+        "x": 0,
+        "y": -50,
+        "radiusX": 35,
+        "radiusY": 35,
+        "rotation": 0
+      },
+      "difficulty": 2
+    }
   ],
   "工": [
-    { "target": "王", "strokeType": "vertical", "hint": "在中间加一竖", "position": { "x": 0, "y": 0, "radiusX": 30, "radiusY": 30 }, "difficulty": 2 },
-    { "target": "土", "strokeType": "vertical", "hint": "在左侧加一竖", "position": { "x": -15, "y": 0, "radiusX": 30, "radiusY": 30 }, "difficulty": 2 }
+    {
+      "target": "王",
+      "strokeType": "vertical",
+      "hint": "在中间加一竖",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "radiusX": 30,
+        "radiusY": 30,
+        "rotation": 0
+      },
+      "difficulty": 2
+    },
+    {
+      "target": "土",
+      "strokeType": "vertical",
+      "hint": "在左侧加一竖",
+      "position": {
+        "x": -15,
+        "y": 0,
+        "radiusX": 30,
+        "radiusY": 30,
+        "rotation": 0
+      },
+      "difficulty": 2
+    }
   ],
   "寸": [
-    { "target": "尺", "strokeType": "slash", "hint": "在顶部加一撇", "position": { "x": -10, "y": -40, "radiusX": 35, "radiusY": 35 }, "difficulty": 3 }
+    {
+      "target": "尺",
+      "strokeType": "slash",
+      "hint": "在顶部加一撇",
+      "position": {
+        "x": -10,
+        "y": -40,
+        "radiusX": 35,
+        "radiusY": 35,
+        "rotation": 0
+      },
+      "difficulty": 3
+    }
   ],
   "门": [
-    { "target": "问", "strokeType": "dot", "hint": "在中间加口", "position": { "x": 0, "y": 0, "radiusX": 40, "radiusY": 40 }, "difficulty": 3 }
+    {
+      "target": "问",
+      "strokeType": "dot",
+      "hint": "在中间加口",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "radiusX": 40,
+        "radiusY": 40,
+        "rotation": 0
+      },
+      "difficulty": 3
+    }
   ]
 }
