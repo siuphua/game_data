@@ -781,17 +781,32 @@
   ],
   "门": [
     {
-      "target": "问",
-      "strokeType": "dot",
-      "hint": "在中间加口",
+      "target": "闩",
+      "strokeType": "horizontal",
+      "hint": "在中间加一横",
       "position": {
         "x": 0,
-        "y": 0,
-        "radiusX": 40,
-        "radiusY": 40,
+        "y": 26,
+        "radiusX": 55,
+        "radiusY": 57,
         "rotation": 0
       },
-      "difficulty": 3
+      "difficulty": 2
+    }
+  ],
+  "天": [
+    {
+      "target": "夫",
+      "strokeType": "slash",
+      "hint": "在顶部加一撇",
+      "position": {
+        "x": -12,
+        "y": -57,
+        "radiusX": 50,
+        "radiusY": 44,
+        "rotation": 0
+      },
+      "difficulty": 4
     }
   ]
 }
