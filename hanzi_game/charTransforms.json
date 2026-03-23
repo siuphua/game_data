@@ -383,10 +383,10 @@
       "strokeType": "vertical",
       "hint": "在中间加一竖",
       "position": {
-        "x": 0,
-        "y": -18,
-        "radiusX": 30,
-        "radiusY": 67,
+        "x": -3,
+        "y": 25,
+        "radiusX": 44,
+        "radiusY": 80,
         "rotation": 0
       },
       "difficulty": 1
@@ -396,10 +396,10 @@
       "strokeType": "vertical",
       "hint": "在下面加一竖（出头）",
       "position": {
-        "x": -1,
-        "y": 28,
+        "x": -4,
+        "y": 81,
         "radiusX": 30,
-        "radiusY": 30,
+        "radiusY": 69,
         "rotation": 0
       },
       "difficulty": 3
@@ -409,10 +409,10 @@
       "strokeType": "vertical",
       "hint": "在上面加一竖（下出头）",
       "position": {
-        "x": 0,
-        "y": -54,
+        "x": -3,
+        "y": -39,
         "radiusX": 30,
-        "radiusY": 30,
+        "radiusY": 59,
         "rotation": 0
       },
       "difficulty": 3
