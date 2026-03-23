@@ -126,9 +126,9 @@
       "strokeType": "horizontal",
       "hint": "在底部加一横",
       "position": {
-        "x": 1,
-        "y": 40,
-        "radiusX": 65,
+        "x": 2,
+        "y": 100,
+        "radiusX": 80,
         "radiusY": 31,
         "rotation": 0
       },
@@ -140,8 +140,8 @@
       "hint": "在中间加一横",
       "position": {
         "x": 0,
-        "y": -56,
-        "radiusX": 51,
+        "y": -57,
+        "radiusX": 69,
         "radiusY": 23,
         "rotation": 0
       },
@@ -153,8 +153,8 @@
       "hint": "在底部加一短横",
       "position": {
         "x": 0,
-        "y": 55,
-        "radiusX": 35,
+        "y": 100,
+        "radiusX": 68,
         "radiusY": 35,
         "rotation": 0
       },
@@ -165,11 +165,11 @@
       "strokeType": "slash",
       "hint": "在顶部加一撇",
       "position": {
-        "x": -7,
+        "x": -1,
         "y": -60,
-        "radiusX": 35,
-        "radiusY": 45,
-        "rotation": 231
+        "radiusX": 78,
+        "radiusY": 38,
+        "rotation": 156
       },
       "difficulty": 4
     }
