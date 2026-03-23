@@ -28,7 +28,7 @@
     },
     {
       "target": "七",
-      "strokeType": "fold_hook",
+      "strokeType": "vertical_fold",
       "hint": "画竖折钩",
       "position": {
         "x": 1,
@@ -51,6 +51,19 @@
         "rotation": 0
       },
       "difficulty": 4
+    },
+    {
+      "target": "丁",
+      "strokeType": "vertical_hook",
+      "hint": "在底部加竖钩",
+      "position": {
+        "x": 0,
+        "y": 22,
+        "radiusX": 35,
+        "radiusY": 48,
+        "rotation": 0
+      },
+      "difficulty": 2
     }
   ],
   "二": [
@@ -167,10 +180,10 @@
       "strokeType": "horizontal",
       "hint": "在中间加一横",
       "position": {
-        "x": 0,
-        "y": 10,
+        "x": -4,
+        "y": -35,
         "radiusX": 35,
-        "radiusY": 35,
+        "radiusY": 19,
         "rotation": 0
       },
       "difficulty": 1
@@ -180,26 +193,13 @@
       "strokeType": "vertical",
       "hint": "在顶部加一竖",
       "position": {
-        "x": 0,
-        "y": -30,
-        "radiusX": 30,
-        "radiusY": 30,
+        "x": -7,
+        "y": 16,
+        "radiusX": 20,
+        "radiusY": 39,
         "rotation": 0
       },
       "difficulty": 2
-    },
-    {
-      "target": "入",
-      "strokeType": "backslash",
-      "hint": "在右侧加一捺",
-      "position": {
-        "x": 15,
-        "y": 30,
-        "radiusX": 35,
-        "radiusY": 35,
-        "rotation": 0
-      },
-      "difficulty": 4
     }
   ],
   "大": [
