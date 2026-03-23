@@ -263,7 +263,7 @@
       "hint": "在中间加一横",
       "position": {
         "x": 0,
-        "y": -5,
+        "y": -13,
         "radiusX": 30,
         "radiusY": 30,
         "rotation": 0
@@ -276,9 +276,9 @@
       "hint": "在中间加一竖",
       "position": {
         "x": 0,
-        "y": -5,
+        "y": -11,
         "radiusX": 30,
-        "radiusY": 30,
+        "radiusY": 52,
         "rotation": 0
       },
       "difficulty": 2
@@ -286,23 +286,23 @@
     {
       "target": "巳",
       "strokeType": "vertical_hook",
-      "hint": "在右侧加竖弯钩",
+      "hint": "在左侧加竖弯钩",
       "position": {
-        "x": 35,
-        "y": 20,
-        "radiusX": 40,
-        "radiusY": 40,
+        "x": 5,
+        "y": -2,
+        "radiusX": 47,
+        "radiusY": 58,
         "rotation": 0
       },
       "difficulty": 4
     },
     {
       "target": "尸",
-      "strokeType": "horizontal_fold",
-      "hint": "在右侧加横折",
+      "strokeType": "slash",
+      "hint": "在右侧加一撇",
       "position": {
-        "x": 25,
-        "y": -20,
+        "x": -32,
+        "y": 2,
         "radiusX": 45,
         "radiusY": 45,
         "rotation": 0
