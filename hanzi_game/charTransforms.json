@@ -299,7 +299,7 @@
     {
       "target": "尸",
       "strokeType": "slash",
-      "hint": "在右侧加一撇",
+      "hint": "在左侧加一撇",
       "position": {
         "x": -32,
         "y": 2,
@@ -384,9 +384,9 @@
       "hint": "在中间加一竖",
       "position": {
         "x": 0,
-        "y": 0,
+        "y": -18,
         "radiusX": 30,
-        "radiusY": 30,
+        "radiusY": 67,
         "rotation": 0
       },
       "difficulty": 1
@@ -394,10 +394,10 @@
     {
       "target": "甲",
       "strokeType": "vertical",
-      "hint": "在中间加一竖（出头）",
+      "hint": "在下面加一竖（出头）",
       "position": {
-        "x": 0,
-        "y": -20,
+        "x": -1,
+        "y": 28,
         "radiusX": 30,
         "radiusY": 30,
         "rotation": 0
@@ -407,10 +407,10 @@
     {
       "target": "由",
       "strokeType": "vertical",
-      "hint": "在中间加一竖（下出头）",
+      "hint": "在上面加一竖（下出头）",
       "position": {
         "x": 0,
-        "y": 20,
+        "y": -54,
         "radiusX": 30,
         "radiusY": 30,
         "rotation": 0
@@ -562,10 +562,10 @@
       "strokeType": "dot",
       "hint": "在右上加点",
       "position": {
-        "x": 30,
-        "y": -40,
-        "radiusX": 35,
-        "radiusY": 35,
+        "x": -5,
+        "y": -68,
+        "radiusX": 43,
+        "radiusY": 18,
         "rotation": 0
       },
       "difficulty": 3
