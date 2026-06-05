@@ -1,0 +1,9 @@
+[
+{"app_id":"app1001","app_name":"测试应用1001","ad_time_id":"ad001","ad_type":"1","ad_unit_id":"ad_posid_001","app_admin":"俊角"},
+{"app_id":"app1001","app_name":"测试应用1001","ad_time_id":"ad002","ad_type":"2","ad_unit_id":"ad_posid_002","app_admin":"俊角"},
+{"app_id":"app1001","app_name":"测试应用1001","ad_time_id":"ad003","ad_type":"3","ad_unit_id":"ad_posid_003","app_admin":"俊角"},
+{"app_id":"app1001","app_name":"测试应用1001","ad_time_id":"ad004","ad_type":"4","ad_unit_id":"ad_posid_004","app_admin":"俊角"},
+{"app_id":"app1001","app_name":"测试应用1001","ad_time_id":"ad005","ad_type":"99","ad_unit_id":"ad_posid_005","app_admin":"俊角"},
+{"app_id":"app1001","app_name":"测试应用1001","ad_time_id":"ad006","ad_type":"-1","ad_unit_id":"ad_posid_006","app_admin":"俊角"},
+{"app_id":"app1001","app_name":"测试应用1001","ad_time_id":"ad007","ad_type":"","ad_unit_id":"ad_posid_007","app_admin":"俊角"}
+]
