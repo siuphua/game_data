@@ -1,0 +1,9 @@
+[
+{"app_id":"小游戏编号（自定义）","app_name":"小游戏名称（自定义）","ad_time_id":"广告展示时机编号（自定义）","ad_type":"广告类型：1=Banner 2=激励视频 3=插屏 4=原生模板 99=分享","ad_unit_id":"广告位ID（平台定义，类型4须为原生模板广告位）","app_admin":"小游戏管理员"},
+{"app_id":"app1001","app_name":"测试应用1001","ad_time_id":"ad001","ad_type":"1","ad_unit_id":"ad_posid_001","app_admin":"俊角"},
+{"app_id":"app1001","app_name":"测试应用1001","ad_time_id":"ad002","ad_type":"2","ad_unit_id":"ad_posid_002","app_admin":"俊角"},
+{"app_id":"app1001","app_name":"测试应用1001","ad_time_id":"ad003","ad_type":"3","ad_unit_id":"ad_posid_003","app_admin":"俊角"},
+{"app_id":"app1001","app_name":"测试应用1001","ad_time_id":"ad004","ad_type":"4","ad_unit_id":"ad_posid_004","app_admin":"俊角"},
+{"app_id":"app1001","app_name":"测试应用1001","ad_time_id":"ad005","ad_type":"99","ad_unit_id":"ad_posid_005","app_admin":"俊角"},
+{"app_id":"app1002","app_name":"测试应用1002","ad_time_id":"ad001","ad_type":"1","ad_unit_id":"ad_posid_003","app_admin":"俊角"}
+]
